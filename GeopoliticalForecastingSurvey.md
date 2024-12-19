@@ -28,8 +28,8 @@ The survey will include personal demographic questions (age, gender, educational
 The following questions ensure participants understand key concepts about the U.S. election process and forecasting:
 
 ### Question 2: What system determines the outcome of the U.S. presidential election?
-- **Popular Vote**: The candidate with the majority of individual votes wins.
-- **Electoral College System**: State-level mandates determine the winner.
+- Popular Vote: The candidate with the majority of individual votes wins.
+- Electoral College System: State-level mandates determine the winner.
 
 ### Question 3: What type of forecast are you making?
 - Probability of winning (%).
