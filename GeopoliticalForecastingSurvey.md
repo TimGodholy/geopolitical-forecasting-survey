@@ -12,6 +12,25 @@ As part of my master's thesis, I am investigating various factors that influence
 
 Please allocate approximately 10-12 minutes to complete the survey.
 
+#### Original German Text
+<details>
+  <summary>View Original German Text</summary>
+
+Herzlich Wilkommen!
+
+Liebe Teilnehmende,
+
+vielen Dank, dass Sie an dieser Umfrage zum Thema "Geopolitische Prognosen" teilnehmen. Die bevorstehende Präsidentschaftswahl 2024 in den USA dient hierbei als zu veranschaulichendes Ereignis.
+
+Ich untersuche im Rahmen meiner Masterarbeit unterschiedliche Variablen, welche das Vertrauen in solche Prognosen beeinflussen.
+
+Bitte planen Sie sich für die Bearbeitung ca. 10-12 Minuten ein.
+
+PS: Nutzer der Forschungsplattform SurveyCircle.com erhalten für ihre Teilnahme SurveyCircle-Punkte.
+  
+</details>
+
+
 ---
 
 ## Consent Form (Einwilligungserklärung)
@@ -19,15 +38,18 @@ Please allocate approximately 10-12 minutes to complete the survey.
 Participation in this survey is voluntary and does not require registration. No contact details or names will be collected.
 The survey will include personal demographic questions (age, gender, educational background, employment status) for analysis purposes. All responses will be treated confidentially and used exclusively for academic evaluation.
 
+### Question 1:
+- [ ] I consent and would like to participate in the survey
+
 #### Original German Text
 <details>
   <summary>View Original German Text</summary>
   
 Innerhalb der Umfrage werden personenbezogene Daten (Alter, Geschlecht, Bildungsstand, Beschäftigungsstatus) abgefragt. Diese dienen zur weiterführenden Auswertung und Interpretation der Ergebnisse. Die Angaben werden selbstverständlich vertraulich behandelt. Die Umfragedaten werden nur so lange aufbewahrt, wie es zur Erfüllung des konkreten Forschungszwecks erforderlich ist. Dies dauert voraussichtlich bis März 2025. Danach werden die Daten gelöscht oder so anonymisiert, dass ein Bezug zu Ihrer Person nicht mehr herstellbar ist.
+
+- [ ] Ich willige ein und möchte an dieser Umfrage teilnehmen
   
 </details>
-
-### Question 1: [ ] I consent and would like to participate in the survey
 
 ---
 
@@ -36,12 +58,28 @@ Innerhalb der Umfrage werden personenbezogene Daten (Alter, Geschlecht, Bildungs
 The following questions ensure participants understand key concepts about the U.S. election process and forecasting:
 
 ### Question 2: What system determines the outcome of the U.S. presidential election?
-- Popular Vote: The candidate with the majority of individual votes wins.
-- Electoral College System: State-level mandates determine the winner.
+- [ ] Popular Vote: The candidate with the majority of individual votes wins.
+- [ ] Electoral College System: State-level mandates determine the winner.
 
 ### Question 3: What type of forecast are you making?
-- Probability of winning (%).
-- Outcome of the vote (%).
+- [ ] Probability of winning (%).
+- [ ] Outcome of the vote (%).
+
+#### Original German Text
+<details>
+  <summary>View Original German Text</summary>
+  
+Abschnitt 1: Verständnisfragen zur Wahl  
+
+Frage 2: Was für ein Wahlsystem ist in den USA entscheidend?  
+- [ ] Popular Vote: Die Mehrheit der Wählerstimmen entscheidet.  
+- [ ] Electoral College System: Die Mandate der Bundesstaaten entscheiden.  
+
+Frage 3: Welche Art von Schätzung nehmen Sie vor?
+- [ ] Die Gewinnwahrscheinlichkeit in %.  
+- [ ] Der Wahlausgang in %.
+
+</details>
 
 ---
 
@@ -51,6 +89,17 @@ The following questions ensure participants understand key concepts about the U.
 Please provide your estimates for each candidate:
 - **Donald Trump**: [ ] %
 - **Kamala Harris**: [ ] %
+
+#### Original German Text
+<details>
+  <summary>View Original German Text</summary>
+  
+Frage 4: Schätzung der Gewinnwahrscheinlichkeit  
+Bitte geben Sie die Gewinnwahrscheinlichkeit der Kandidaten an:  
+- **Donald Trump**: [ ] %  
+- **Kamala Harris**: [ ] %
+
+</details>
 
 ---
 
@@ -64,6 +113,21 @@ New information about the election forecast:
 - **Donald Trump**: [ ] %
 - **Kamala Harris**: [ ] %
 
+#### Original German Text
+<details>
+  <summary>View Original German Text</summary>
+  
+Neue Informationen zur Wahlprognose:  
+1. **Umfrage**: Trump 51 %, Harris 49 %  
+2. **Algorithmus**: Trump 47 %, Harris 53 %  
+
+Frage 5: Aktualisierte Schätzung  
+Geben Sie die Gewinnwahrscheinlichkeit erneut an:  
+- **Donald Trump**: [ ] %  
+- **Kamala Harris**: [ ] %
+
+</details>
+
 ---
 
 ## Section 4: Betting Decision (Wetteentscheidung)
@@ -71,6 +135,16 @@ New information about the election forecast:
 ### Question 6: On whom would you bet?
 - [ ] **Donald Trump**
 - [ ] **Kamala Harris**
+
+#### Original German Text
+<details>
+  <summary>View Original German Text</summary>
+
+Frage 5: Auf wen würden Sie setzen?  
+- [ ] **Donald Trump**
+- [ ] **Kamala Harris**
+
+</details>
 
 ---
 
@@ -128,7 +202,13 @@ Please rate on a scale from 1 to 7:
 - **1**: I would definitely not use it  
 - **7**: I would definitely use it  
 
-[ ] 1  [ ] 2  [ ] 3  [ ] 4  [ ] 5  [ ] 6  [ ] 7  
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
 
 ---
 
@@ -138,15 +218,39 @@ Please rate on a scale from 1 to 7:
 - **1**: I would definitely not use it  
 - **7**: I would definitely use it  
 
-[ ] 1  [ ] 2  [ ] 3  [ ] 4  [ ] 5  [ ] 6  [ ] 7  
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7 
 
 ---
 
 ### Question 9:
 **If you had to choose, which of the two algorithms would you prefer to use for making the best prediction about a geopolitical event?**
 
-[ ] option 1  
-[ ] option 2
+- [ ] option 1  
+- [ ] option 2
+
+#### Original German Text
+<details>
+  <summary>View Original German Text</summary>
+
+Nachfolgend finden Sie unterschiedlich zusammengestellte Algorithmen bzw. Vorhersage-Tools. Diese versuchen, das oben beschriebene geopolitische Ereignis zu prognostizieren. Bitte machen Sie Angaben, welche der Algorithmen/Vorhersage-Tools Sie bevorzugen würden.
+
+Wie wahrscheinlich ist es, dass Sie Möglichkeit 1 zur Entscheidungsfindung nutzen?
+Skala: 1 (Würde ich definitiv nicht nutzen) bis 7 (Würde ich definitiv nutzen)
+
+Wie wahrscheinlich ist es, dass Sie Möglichkeit 2 zur Entscheidungsfindung nutzen?
+Skala: 1 (Würde ich definitiv nicht nutzen) bis 7 (Würde ich definitiv nutzen)
+
+Wenn Sie sich entscheiden müssten, welche Möglichkeit würden Sie bevorzugen, um die bestmögliche geopolitische Prognose zu erhalten?
+- [ ] Möglichkeit 1  
+- [ ] Möglichkeit 2
+
+</details>
 
 ---
 
@@ -197,37 +301,120 @@ Please indicate how important the following attributes of a forecasting tool are
 
 ### Question 55: How important are expert opinions?
 Rate on a scale from 1 (not important at all) to 7 (very important):
-[ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7 
 
 ---
 
 ### Question 56: How important are assessments by intelligence agencies?
 Rate on a scale from 1 (not important at all) to 7 (very important):
-[ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7 
 
 ---
 
 ### Question 57: How important are polling data?
 Rate on a scale from 1 (not important at all) to 7 (very important):
-[ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7 
 
 ---
 
 ### Question 58: How important are betting odds?
 Rate on a scale from 1 (not important at all) to 7 (very important):
-[ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7 
 
 ---
 
 ### Question 59: How important is the developer of the algorithm?
 Rate on a scale from 1 (not important at all) to 7 (very important):
-[ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7 
+
+#### Original German Text
+<details>
+  <summary>View Original German Text</summary>
+
+Frage: Wie wichtig sind Ihnen die folgenden Bestandteile? 
+Bewerten Sie auf einer Skala von 1 (Gar nicht wichtig) bis 7 (Sehr wichtig):  
+
+- Expertenmeinungen  
+- Einschätzungen internationaler Geheimdienste  
+- Relevante Umfragen  
+- Wettquoten  
+- Entwickler des Algorithmus  
+
+</details>
 
 ---
 
 ### Section 7: Final Questions and Demographics (Abschließende Fragen und Demografische Angaben)
 
 Participants answered the following questions about their demographics:
+
+### Question 60: How well informed were you about the U.S. election campaign before the survey?
+
+Rate on a scale from 1 (very poorly informed) to 7 (very well informed):
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+
+### Question 60: Age: [ ]
+
+### Question 61: Gender:
+ - [ ] Male (Männlich)
+ - [ ] Female (Weiblich)
+ - [ ] Non-binary (Divers)
+ - [ ] Prefer not to say (Keine Angabe)
+ - [ ] Other:
+
+### Question 62: Highest Level of Education:
+  - [ ] No degree (Kein Abschluss)
+  - [ ] Secondary school (Hauptschulabschluss)
+  - [ ] High school diploma (Realschulabschluss)
+  - [ ] University entrance qualification (Abitur)
+  - [ ] Bachelor’s degree
+  - [ ] Master’s degree
+  - [ ] Doctorate (Promotion)
+  - [ ] Other:
+
+### Question 63: Employment Status:
+ - [ ] Employed (Angestellt)
+ - [ ] Self-employed (Selbstständig)
+ - [ ] Student/Pupil (Student/Schüler)
+ - [ ] Retired (Rentner)
+ - [ ] Unemployed (Arbeitslos)
+ - [ ] Other:
 
 #### Original German Text
 <details>
@@ -265,38 +452,6 @@ Participants answered the following questions about their demographics:
   
 </details>
 
-### Question 60: How well informed were you about the U.S. election campaign before the survey?
-
-Rate on a scale from 1 (very poorly informed) to 7 (very well informed):
-[ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7
-
-### Question 60: Age: [ ]
-
-### Question 61: Gender:
-   - Male (Männlich)
-   - Female (Weiblich)
-   - Non-binary (Divers)
-   - Prefer not to say (Keine Angabe)
-   - Other
-
-### Question 62: Highest Level of Education:
-   - No degree (Kein Abschluss)
-   - Secondary school (Hauptschulabschluss)
-   - High school diploma (Realschulabschluss)
-   - University entrance qualification (Abitur)
-   - Bachelor’s degree
-   - Master’s degree
-   - Doctorate (Promotion)
-   - Other
-
-### Question 63: Employment Status:
-   - Employed (Angestellt)
-   - Self-employed (Selbstständig)
-   - Student/Pupil (Student/Schüler)
-   - Retired (Rentner)
-   - Unemployed (Arbeitslos)
-   - Other
-
 ---
 
 ## Conclusion (Abschluss)
@@ -305,6 +460,20 @@ Thank you for your participation!
 For further information on the forecasts, visit: Project 538 by ABC News.
 Please note that the forecasts are constantly changing, and the values for this survey were retrieved on October 14, 2024.
 For SurveyCircle users, your survey code is: [...]
+
+#### Original German Text
+<details>
+  <summary>View Original German Text</summary>
+  
+Vielen Dank für Ihre Teilnahme!
+
+Falls Sie gerne die aktuellen Prognosen zur Wahl einsehen möchten, finden Sie weitere Informationen unter der Quelle der herangezogenen Daten: Project 538 von abc News.
+Bitte beachten Sie, dass sich die Prognosen ständig ändern und die Werte dieser Umfrage am 14.10.2024 abgerufen wurden.
+
+
+Für Nutzer von SurveyCircle (www.surveycircle.com): Der Survey Code lautet:
+  
+</details>
 
 ---
 
