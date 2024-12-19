@@ -19,7 +19,7 @@ Please allocate approximately 10-12 minutes to complete the survey.
 Participation in this survey is voluntary and does not require registration. No contact details or names will be collected.
 The survey will include personal demographic questions (age, gender, educational background, employment status) for analysis purposes. All responses will be treated confidentially and used exclusively for academic evaluation.
 
-### Question 1: [] I consent and would like to participate in the survey
+### Question 1: [ ] I consent and would like to participate in the survey
 
 ---
 
