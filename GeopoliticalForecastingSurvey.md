@@ -19,6 +19,14 @@ Please allocate approximately 10-12 minutes to complete the survey.
 Participation in this survey is voluntary and does not require registration. No contact details or names will be collected.
 The survey will include personal demographic questions (age, gender, educational background, employment status) for analysis purposes. All responses will be treated confidentially and used exclusively for academic evaluation.
 
+#### Original German Text
+<details>
+  <summary>View Original German Text</summary>
+  
+Innerhalb der Umfrage werden personenbezogene Daten (Alter, Geschlecht, Bildungsstand, Beschäftigungsstatus) abgefragt. Diese dienen zur weiterführenden Auswertung und Interpretation der Ergebnisse. Die Angaben werden selbstverständlich vertraulich behandelt. Die Umfragedaten werden nur so lange aufbewahrt, wie es zur Erfüllung des konkreten Forschungszwecks erforderlich ist. Dies dauert voraussichtlich bis März 2025. Danach werden die Daten gelöscht oder so anonymisiert, dass ein Bezug zu Ihrer Person nicht mehr herstellbar ist.
+  
+</details>
+
 ### Question 1: [ ] I consent and would like to participate in the survey
 
 ---
@@ -66,16 +74,30 @@ New information about the election forecast:
 
 ---
 
-## Section 5: Conjoint Analysis
+## Section 5: Conjoint Analysis Task
 
-### Attribute Levels
-The following levels were used for each attribute in the conjoint analysis:
+Participants were presented with two algorithms with varying attributes.
 
-1. **Expert Opinions (Einbezogene Expertenmeinungen)**: 50, 150, 500
-2. **Intelligence Data (Zugängliche Einschätzung internationaler Geheimdienste)**: 5, 15, 50
-3. **Polling Data (Betrachtete relevante Umfragen)**: 50, 150, 500
-4. **Betting Odds (Ausgewertete Wettquoten)**: 50, 150, 500
-5. **Developer (Entwickler des Algorithmus)**:
+#### Original German Text
+<details>
+  <summary>View Original German Text</summary>
+  
+  Nachfolgend finden Sie unterschiedlich zusammengestellte Algorithmen bzw. Vorhersage-Tools. Diese versuchen, das oben beschriebene geopolitische Ereignis zu prognostizieren. Bitte machen Sie Angaben, welche der Algorithmen/Vorhersage-Tools Sie bevorzugen würden.
+  
+  **Attribute Names in German**:
+  - Expert Opinions: Einbezogene Expertenmeinungen
+  - Intelligence Data: Zugängliche Einschätzung internationaler Geheimdienste
+  - Polling Data: Betrachtete relevante Umfragen
+  - Betting Odds: Ausgewertete Wettquoten
+  - Algorithm Developer: Entwickler des Algorithmus
+  
+</details>
+
+1. **Expert Opinions**: 50, 150, 500
+2. **Intelligence Data**: 5, 15, 50
+3. **Polling Data**: 50, 150, 500
+4. **Betting Odds**: 50, 150, 500
+5. **Developer**:
    - State University (Staatliche Universität)
    - Private Company (Privates Unternehmen)
    - Foreign Ministry (Auswärtiges Amt)
@@ -200,7 +222,45 @@ Rate on a scale from 1 (not important at all) to 7 (very important):
 
 ---
 
-## Section 7: Final Questions and Demographics (Abschließende Fragen und Demografische Angaben)
+### Section 7: Final Questions and Demographics (Abschließende Fragen und Demografische Angaben)
+
+Participants answered the following questions about their demographics:
+
+#### Original German Text
+<details>
+  <summary>View Original German Text</summary>
+  
+  **Wie gut informiert waren Sie über den Wahlkampf in den USA vor der Umfrage?**
+  - Skala: 1 (Sehr schlecht informiert) bis 7 (Sehr gut informiert)
+  
+  **Alter**: [ ]
+  
+  **Geschlecht**:
+  - Männlich
+  - Weiblich
+  - Divers
+  - Keine Angabe
+  - Sonstiges
+  
+  **Höchster Bildungsstand**:
+  - Kein Abschluss
+  - Hauptschulabschluss
+  - Realschulabschluss
+  - Abitur
+  - Bachelor-Abschluss
+  - Master-Abschluss
+  - Promotion
+  - Sonstiges
+  
+  **Beschäftigungsstatus**:
+  - Angestellt
+  - Selbstständig
+  - Student/Schüler
+  - Rentner
+  - Arbeitslos
+  - Sonstiges
+  
+</details>
 
 ### Question 60: How well informed were you about the U.S. election campaign before the survey?
 
@@ -214,6 +274,7 @@ Rate on a scale from 1 (very poorly informed) to 7 (very well informed):
    - Female (Weiblich)
    - Non-binary (Divers)
    - Prefer not to say (Keine Angabe)
+   - Other
 
 ### Question 62: Highest Level of Education:
    - No degree (Kein Abschluss)
@@ -223,6 +284,7 @@ Rate on a scale from 1 (very poorly informed) to 7 (very well informed):
    - Bachelor’s degree
    - Master’s degree
    - Doctorate (Promotion)
+   - Other
 
 ### Question 63: Employment Status:
    - Employed (Angestellt)
@@ -230,6 +292,7 @@ Rate on a scale from 1 (very poorly informed) to 7 (very well informed):
    - Student/Pupil (Student/Schüler)
    - Retired (Rentner)
    - Unemployed (Arbeitslos)
+   - Other
 
 ---
 
