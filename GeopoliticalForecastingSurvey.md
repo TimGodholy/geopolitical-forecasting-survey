@@ -89,7 +89,10 @@ Participants were presented with two algorithms with varying attributes.
   - Intelligence Data: Zugängliche Einschätzung internationaler Geheimdienste
   - Polling Data: Betrachtete relevante Umfragen
   - Betting Odds: Ausgewertete Wettquoten
-  - Algorithm Developer: Entwickler des Algorithmus
+  - Developer: Entwickler des Algorithmus
+     - Staatliche Universität
+     - Privates Unternehmen
+     - Auswärtiges Amt
   
 </details>
 
@@ -98,9 +101,9 @@ Participants were presented with two algorithms with varying attributes.
 3. **Polling Data**: 50, 150, 500
 4. **Betting Odds**: 50, 150, 500
 5. **Developer**:
-   - State University (Staatliche Universität)
-   - Private Company (Privates Unternehmen)
-   - Foreign Ministry (Auswärtiges Amt)
+   - State University
+   - Private Company
+   - Foreign Ministry
 
 ## Conjoint Comparison Example (First Task)
 
