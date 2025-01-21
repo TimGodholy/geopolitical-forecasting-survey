@@ -23,7 +23,7 @@ The purpose of this repository is to provide transparency and reproducibility fo
 - **Download for Reuse**: Clone or download the repository if you wish to adapt the survey or data for your own research. Please ensure proper citation if reusing the data.
 
 ## Citation
-If you use this repository or its contents in your research or publications, please cite it as follows:
+If you find this repository helpful in your research, feel free to acknowledge it or cite it as follows:
 
 Gottselig, T. (2025). **Understanding Trust in Geopolitical Forecasting Algorithms: Master’s Thesis Repository**. (https://github.com/TimGodholy/geopolitical-forecasting-survey.git).
 
