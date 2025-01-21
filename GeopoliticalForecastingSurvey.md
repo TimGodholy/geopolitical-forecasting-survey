@@ -14,7 +14,7 @@ Please allocate approximately 10-12 minutes to complete the survey.
 
 #### Original German Text
 <details>
-  <summary>View Original German Text</summary>
+  <summary>View</summary>
 
 Herzlich Wilkommen!
 
@@ -43,7 +43,7 @@ The survey will include personal demographic questions (age, gender, educational
 
 #### Original German Text
 <details>
-  <summary>View Original German Text</summary>
+  <summary>View</summary>
   
 Innerhalb der Umfrage werden personenbezogene Daten (Alter, Geschlecht, Bildungsstand, Beschäftigungsstatus) abgefragt. Diese dienen zur weiterführenden Auswertung und Interpretation der Ergebnisse. Die Angaben werden selbstverständlich vertraulich behandelt. Die Umfragedaten werden nur so lange aufbewahrt, wie es zur Erfüllung des konkreten Forschungszwecks erforderlich ist. Dies dauert voraussichtlich bis März 2025. Danach werden die Daten gelöscht oder so anonymisiert, dass ein Bezug zu Ihrer Person nicht mehr herstellbar ist.
 
@@ -67,7 +67,7 @@ The following questions ensure participants understand key concepts about the U.
 
 #### Original German Text
 <details>
-  <summary>View Original German Text</summary> 
+  <summary>View</summary> 
 
 Frage 2: Was für ein Wahlsystem ist in den USA entscheidend?  
 - [ ] Popular Vote: Die Mehrheit der Wählerstimmen entscheidet.  
@@ -90,7 +90,7 @@ Please provide your estimates for each candidate:
 
 #### Original German Text
 <details>
-  <summary>View Original German Text</summary>
+  <summary>View</summary>
   
 Frage 4: Schätzung der Gewinnwahrscheinlichkeit  
 Bitte geben Sie die Gewinnwahrscheinlichkeit der Kandidaten an:  
@@ -113,7 +113,7 @@ New information about the election forecast:
 
 #### Original German Text
 <details>
-  <summary>View Original German Text</summary>
+  <summary>View</summary>
   
 Neue Informationen zur Wahlprognose:  
 1. **Umfrage**: Trump 51 %, Harris 49 %  
@@ -136,7 +136,7 @@ Geben Sie die Gewinnwahrscheinlichkeit erneut an:
 
 #### Original German Text
 <details>
-  <summary>View Original German Text</summary>
+  <summary>View</summary>
 
 Frage 5: Auf wen würden Sie setzen?  
 - [ ] **Donald Trump**
@@ -152,19 +152,9 @@ Below, you will find variously composed algorithms or forecasting tools. These a
 
 #### Original German Text
 <details>
-  <summary>View Original German Text</summary>
+  <summary>View</summary>
   
 Nachfolgend finden Sie unterschiedlich zusammengestellte Algorithmen bzw. Vorhersage-Tools. Diese versuchen, das oben beschriebene geopolitische Ereignis zu prognostizieren. Bitte machen Sie Angaben, welche der Algorithmen/Vorhersage-Tools Sie bevorzugen würden.
-  
-  **Attribute Names in German**:
-  - Expert Opinions: Einbezogene Expertenmeinungen
-  - Intelligence Data: Zugängliche Einschätzung internationaler Geheimdienste
-  - Polling Data: Betrachtete relevante Umfragen
-  - Betting Odds: Ausgewertete Wettquoten
-  - Developer: Entwickler des Algorithmus
-     - Staatliche Universität
-     - Privates Unternehmen
-     - Auswärtiges Amt
   
 </details>
 
@@ -178,6 +168,22 @@ Participants were presented with two algorithms, each characterized by the follo
    - State University
    - Private Company
    - Foreign Ministry
+  
+#### Attribute Names in German
+<details>
+  <summary>View</summary>
+  
+  **Attribute Names in German**:
+  - Expert Opinions: Einbezogene Expertenmeinungen
+  - Intelligence Data: Zugängliche Einschätzung internationaler Geheimdienste
+  - Polling Data: Betrachtete relevante Umfragen
+  - Betting Odds: Ausgewertete Wettquoten
+  - Developer: Entwickler des Algorithmus
+     - Staatliche Universität
+     - Privates Unternehmen
+     - Auswärtiges Amt
+  
+</details>
 
 ## Conjoint Comparison Example (First Task)
 
@@ -236,9 +242,7 @@ Please rate on a scale from 1 to 7:
 
 #### Original German Text
 <details>
-  <summary>View Original German Text</summary>
-
-Nachfolgend finden Sie unterschiedlich zusammengestellte Algorithmen bzw. Vorhersage-Tools. Diese versuchen, das oben beschriebene geopolitische Ereignis zu prognostizieren. Bitte machen Sie Angaben, welche der Algorithmen/Vorhersage-Tools Sie bevorzugen würden.
+  <summary>View</summary>
 
 Wie wahrscheinlich ist es, dass Sie Möglichkeit 1 zur Entscheidungsfindung nutzen?
 Skala: 1 (Würde ich definitiv nicht nutzen) bis 7 (Würde ich definitiv nutzen)
@@ -359,7 +363,7 @@ Rate on a scale from 1 (not important at all) to 7 (very important):
 
 #### Original German Text
 <details>
-  <summary>View Original German Text</summary>
+  <summary>View</summary>
 
 Frage: Wie wichtig sind Ihnen die folgenden Bestandteile? 
 Bewerten Sie auf einer Skala von 1 (Gar nicht wichtig) bis 7 (Sehr wichtig):  
@@ -376,7 +380,7 @@ Bewerten Sie auf einer Skala von 1 (Gar nicht wichtig) bis 7 (Sehr wichtig):
 
 ### Section 7: Final Questions and Demographics (Abschließende Fragen und Demografische Angaben)
 
-Participants answered the following questions about their demographics:
+Participants responded to a question assessing their knowledge about the U.S. election, followed by a series of questions about their demographic characteristics:
 
 ### Question 60: How well informed were you about the U.S. election campaign before the survey?
 
@@ -418,7 +422,7 @@ Rate on a scale from 1 (very poorly informed) to 7 (very well informed):
 
 #### Original German Text
 <details>
-  <summary>View Original German Text</summary>
+  <summary>View</summary>
   
   **Wie gut informiert waren Sie über den Wahlkampf in den USA vor der Umfrage?**
   - Skala: 1 (Sehr schlecht informiert) bis 7 (Sehr gut informiert)
@@ -457,21 +461,21 @@ Rate on a scale from 1 (very poorly informed) to 7 (very well informed):
 ## Conclusion (Abschluss)
 
 Thank you for your participation!
-For further information on the forecasts, visit: Project 538 by ABC News.
+For further information on the forecasts, visit: [Project 538 by ABC News](https://projects.fivethirtyeight.com/2024-election-forecast/).
 Please note that the forecasts are constantly changing, and the values for this survey were retrieved on October 14, 2024.
-For SurveyCircle users, your survey code is: [...]
+For SurveyCircle users, your survey code is: MSF6-92WQ-2SE5-B7HM
 
 #### Original German Text
 <details>
-  <summary>View Original German Text</summary>
+  <summary>View</summary>
   
 Vielen Dank für Ihre Teilnahme!
 
-Falls Sie gerne die aktuellen Prognosen zur Wahl einsehen möchten, finden Sie weitere Informationen unter der Quelle der herangezogenen Daten: Project 538 von abc News.
+Falls Sie gerne die aktuellen Prognosen zur Wahl einsehen möchten, finden Sie weitere Informationen unter der Quelle der herangezogenen Daten: [Project 538 by ABC News](https://projects.fivethirtyeight.com/2024-election-forecast/).
 Bitte beachten Sie, dass sich die Prognosen ständig ändern und die Werte dieser Umfrage am 14.10.2024 abgerufen wurden.
 
 
-Für Nutzer von SurveyCircle (www.surveycircle.com): Der Survey Code lautet:
+Für Nutzer von SurveyCircle (www.surveycircle.com): Der Survey Code lautet: MSF6-92WQ-2SE5-B7HM
   
 </details>
 
