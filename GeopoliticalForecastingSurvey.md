@@ -67,9 +67,7 @@ The following questions ensure participants understand key concepts about the U.
 
 #### Original German Text
 <details>
-  <summary>View Original German Text</summary>
-  
-Abschnitt 1: Verständnisfragen zur Wahl  
+  <summary>View Original German Text</summary> 
 
 Frage 2: Was für ein Wahlsystem ist in den USA entscheidend?  
 - [ ] Popular Vote: Die Mehrheit der Wählerstimmen entscheidet.  
@@ -150,13 +148,13 @@ Frage 5: Auf wen würden Sie setzen?
 
 ## Section 5: Conjoint Analysis Task
 
-Participants were presented with two algorithms with varying attributes.
+Below, you will find variously composed algorithms or forecasting tools. These aim to predict the geopolitical event described above. Please indicate which of the algorithms/forecasting tools you would prefer.
 
 #### Original German Text
 <details>
   <summary>View Original German Text</summary>
   
-  Nachfolgend finden Sie unterschiedlich zusammengestellte Algorithmen bzw. Vorhersage-Tools. Diese versuchen, das oben beschriebene geopolitische Ereignis zu prognostizieren. Bitte machen Sie Angaben, welche der Algorithmen/Vorhersage-Tools Sie bevorzugen würden.
+Nachfolgend finden Sie unterschiedlich zusammengestellte Algorithmen bzw. Vorhersage-Tools. Diese versuchen, das oben beschriebene geopolitische Ereignis zu prognostizieren. Bitte machen Sie Angaben, welche der Algorithmen/Vorhersage-Tools Sie bevorzugen würden.
   
   **Attribute Names in German**:
   - Expert Opinions: Einbezogene Expertenmeinungen
@@ -169,6 +167,8 @@ Participants were presented with two algorithms with varying attributes.
      - Auswärtiges Amt
   
 </details>
+
+Participants were presented with two algorithms, each characterized by the following varying attributes. Respondents were not informed about the specific attribute levels in advance:
 
 1. **Expert Opinions**: 50, 150, 500
 2. **Intelligence Data**: 5, 15, 50
