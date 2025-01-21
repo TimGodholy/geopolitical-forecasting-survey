@@ -19,7 +19,7 @@ The purpose of this repository is to provide transparency and reproducibility fo
 - **Access Data Files**:
   - The `data/raw` folder contains the original anonymized survey responses in German.
   - The `data/processed` folder includes cleaned and structured data used for analysis.
-- **View Demographics**: Check the `docs/demographics.md` file for a summary of respondent demographics, including age, gender, education, and employment status.
+- **View Demographics**: Check the `demographics.md` file for a summary of respondent demographics, including age, gender, education, and employment status.
 - **Download for Reuse**: Clone or download the repository if you wish to adapt the survey or data for your own research. Please ensure proper citation if reusing the data.
 
 ## Citation
